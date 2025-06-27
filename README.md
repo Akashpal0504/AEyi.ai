@@ -6,5 +6,5 @@ Run the notebook titled **'Image_Describer_Flicker8k_Custom.ipynp'**, this will 
 ## Main app - 
 To run the app just type following command in terminal:<br>
 ```
-streamlit run Aeyi.py
+streamlit run AEyi.py
 ```
